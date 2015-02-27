@@ -1,2 +1,5 @@
 <?php
-echo 'Voici la page de catalogue';
+
+echo "Deuxième modif";
+
+$a = 5;
